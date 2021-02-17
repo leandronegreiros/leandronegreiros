@@ -30,7 +30,10 @@ Hi, I'm Leandro Negreiros, currently, I'm a  Developer 🚀 🙍🏽‍♂️  e
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 
-![Adarshreddy's github stats](https://github-readme-stats.vercel.app/api?username=leandronegreiros&show_icons=true&theme=vue)
-![Adarshreddy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leandronegreiros&layout=compact)
+**GitHub Readme Stats:**  
+
+![leandronegreiros github stats](https://github-readme-stats.vercel.app/api?username=leandronegreiros&show_icons=true&theme=vue)
+
+![leandronegreiros github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leandronegreiros&layout=compact)
 
 :star: **From** [Leandro Negreiros](https://github.com/leandronegreiros) 
