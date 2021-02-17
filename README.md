@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi 👋, I'm Leandro Negreitos
 
-<!--
-**leandronegreiros/leandronegreiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/leandro-negreiros-7623ba141/">
+  <img align="left" alt="Leandro Negreiros LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br />
+<br />
 
-Here are some ideas to get you started:
+Hi, I'm Leandro Negreiros, currently, I'm a  Developer 🚀 🙍🏽‍♂️  et [PMZ](https://www.grupopmz.com/), Beside's programming, I enjoy podcasts and documentaries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on [typeScript-na-pratica](https://github.com/leandronegreiros/typeScript-na-pratica);
+- 🌱 I’m currently learning Node ,typescript and Vue; 
+- 👯 I’m looking to collaborate on [typeScript-na-pratica](https://github.com/leandronegreiros/typeScript-na-pratica) 🤝;
+- 🤔 I’m looking for help with Angula and Spring Boot 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun fact: I like in anime Naruto;
+- 📫 How to reach me: leandronegreiros07@gmail.com;
+
