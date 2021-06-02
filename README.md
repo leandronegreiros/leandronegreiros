@@ -1,4 +1,4 @@
-### Hi 👋, I'm Leandro Negreitos
+### Hi 👋, I'm Leandro Negreiros
 
 <a href="https://github.com/leandronegreiros">
   <img align="left" alt="Leandro Negreiros github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
