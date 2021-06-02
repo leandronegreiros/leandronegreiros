@@ -18,7 +18,7 @@
 
 Hi, I'm Leandro Negreiros, currently, I'm a  Developer 🚀 🙍🏽‍♂️  et [PMZ](https://www.grupopmz.com/), Beside's programming, I enjoy podcasts and documentaries.
 
-![Snake animation](https://github.com/leandronegreiros/leandronegreiros/github-contribution-grid-snake.svg)
+![Snake animation]https://github.com/leandronegreiros/leandronegreiros/blob/main/github-contribution-grid-snake.svg)
 
 **Talking about Personal Stuffs:**
 
