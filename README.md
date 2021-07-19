@@ -16,14 +16,14 @@
 <br />
 <br />
 
-Hi, I'm Leandro Negreiros, currently, I'm a  Developer 🚀 🙍🏽‍♂️  et [PMZ](https://www.grupopmz.com/), Beside's programming, I enjoy podcasts and documentaries.
+Hi, I'm Leandro Negreiros, currently, I'm a  Developer 🚀 🙍🏽‍♂️  et [FPF Tech](https://fpftech.com/principal), Beside's programming, I enjoy podcasts and documentaries.
 
 ![Snake animation](https://github.com/leandronegreiros/leandronegreiros/blob/main/github-contribution-grid-snake.svg)
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [typeScript-na-pratica](https://github.com/leandronegreiros/typeScript-na-pratica);
-- 🌱 I’m currently learning Node ,typescript and Vue; 
+- 👨🏽‍💻 I’m currently working on [Python](https://www.python.org/a);
+- 🌱 I’m currently learning Angular; 
 - 👯 I’m looking to collaborate on [typeScript-na-pratica](https://github.com/leandronegreiros/typeScript-na-pratica) 🤝;
 - 🤔 I’m looking for help with Angula and Spring Boot 😭;
 - 💬 Ask me about anything, I am happy to help;
